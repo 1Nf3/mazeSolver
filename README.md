@@ -7,7 +7,7 @@ Finds the shortest path from a start position to a goal position in a maze using
 
 # Usage
 
-Run using `python3 maze_runner.py mazes/{maze}` or `python3 maze_runner.py mazes/{maze} `
+Run using `python3 maze_runner.py mazes/{maze}` or `python3 maze_runner.py mazes/{maze} --starting {x},{y} --goal {x},{y}`
 
 Output will be in the form of a list of coordinate tuples, showcasing the shortest path.
 
